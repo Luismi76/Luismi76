@@ -95,7 +95,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nginx" width="40" height="40"/> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg" alt="sqlserver" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="sqlserver" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
