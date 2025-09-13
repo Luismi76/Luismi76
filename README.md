@@ -69,17 +69,30 @@
 ---
 
 ### 📊 Mis estadísticas en GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luismi76&show_icons=true&theme=tokyonight&cache_seconds=21600" alt="Estadísticas de GitHub" />
+  <img src="https://img.shields.io/badge/Contribuciones%20totales-34-blue?style=flat" alt="Contribuciones totales" />
+  <img src="https://img.shields.io/badge/Commits%20realizados-20-success?style=flat" alt="Commits realizados" />
+  <img src="https://img.shields.io/badge/Repositorios%20públicos-5-informational?style=flat" alt="Repositorios públicos" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luismi76&theme=tokyonight" alt="Racha de contribuciones" />
+  <img src="https://img.shields.io/badge/Racha%20actual-1%20día-yellow?style=flat" alt="Racha actual" />
+  <img src="https://img.shields.io/badge/Racha%20más%20larga-1%20día-lightgrey?style=flat" alt="Racha más larga" />
 </p>
 
+---
+
+### 📚 Lenguajes más usados (estimación manual)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luismi76&layout=compact&theme=tokyonight&cache_seconds=21600" alt="Lenguajes más usados" />
+  <img
+    alt="Lenguajes más usados"
+    src="https://quickchart.io/chart?c=%7Btype%3A'bar'%2Cdata%3A%7Blabels%3A%5B'HTML'%2C'Python'%2C'JavaScript'%2C'CSS'%2C'Jupyter%20Notebook'%2C'Jinja'%5D%2Cdatasets%3A%5B%7Blabel%3A'Porcentaje'%2Cdata%3A%5B58.75%2C18.81%2C8.63%2C5.26%2C4.82%2C3.73%5D%7D%5D%7D%2Coptions%3A%7BindexAxis%3A'y'%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A'Lenguajes%20m%C3%A1s%20usados%20(%)'%7D%7D%2Cscales%3A%7By%3A%7Bticks%3A%7Bfont%3A%7Bsize%3A12%7D%7D%7D%2Cx%3A%7BbeginAtZero%3Atrue%2Cmax%3A60%7D%7D%7D%7D"
+  />
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Luismi76&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" />
