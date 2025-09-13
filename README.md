@@ -70,19 +70,17 @@
 
 ### 📊 Mis estadísticas en GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lmsc76&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luismi76&show_icons=true&theme=tokyonight&cache_seconds=21600" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lmsc76&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luismi76&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmsc76&layout=compact&theme=tokyonight" alt="Top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luismi76&layout=compact&theme=tokyonight&cache_seconds=21600" alt="Top langs" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lmsc76&label=Visitas&color=0e75b6&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Luismi76&label=Visitas&color=0e75b6&style=flat" alt="contador de visitas" />
 </p>
